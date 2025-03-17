@@ -1,8 +1,9 @@
 Hey there! 👋 I'm Sewasew
 
 I'm a software engineering student with a strong passion for web development, experienced in building projects with **React**, **JavaScript**, and other web technologies. Recently, I've started my journey into the world of **Machine Learning** and **Data Science**, where I'm eager to explore the endless possibilities of AI.
-🎯 Goals: **Contribute more to Open Source**
-- 📫 Reach me at **[your.email@example.com]** 
+
+- 🎯 Goals: **Contribute more to Open Source**
+- 📫 Reach me at **[sewasewtadele@gmail.com]** 
 
 ---
 
