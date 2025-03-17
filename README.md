@@ -1,39 +1,43 @@
 Hey there! 👋 I'm Sewasew
 
 I'm a software engineering student with a strong passion for web development, experienced in building projects with **React**, **JavaScript**, and other web technologies. Recently, I've started my journey into the world of **Machine Learning** and **Data Science**, where I'm eager to explore the endless possibilities of AI.
+🎯 Goals: **Contribute more to Open Source**
+- 📫 Reach me at **[your.email@example.com]** 
 
 ---
 
-## 🔧 Technologies & Tools
 
-### Web Development
-- React, JavaScript, HTML, CSS
-- Node.js, Express.js
-- MySQL, Sequelize ORM
-- API integration
-
-### Machine Learning
-- Python, NumPy, Pandas
-- Scikit-learn, TensorFlow (Learning)
-
-- ## 🚀 Current Projects
-
-- 🔨 **(#)**: A collection of web apps built using React, Node.js, and other tools.
-- 🤖 **[Learning Machine Learning](#)**: Sharing my learning journey, including projects in Python and machine learning algorithms.
+### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) 
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow)
 
 ---
 
-## 🌱 What I'm currently learning
-
-- Deepening my knowledge in **Machine Learning** algorithms
-- Working on small **AI-powered web applications**
-- Practicing **Python** for data analysis and model building
+### 📊 GitHub Stats
+| Stats | Streak | Top Languages |
+|-------|--------|--------------|
+| ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sewasewT7&show_icons=true&theme=radical) | ![GitHub Streak](https://streak-stats.demolab.com/?user=sewasewT7&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sewasewT7&layout=compact&theme=radical) |
 
 ---
+
+
+### 🔥 Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
 
 ## 💬 Let's connect!
 
 - [www.linkedin.com/in/sewasew-tadele-79a3222b5](#)
+- 
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+![GitHub Contribution](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 <!---
 sewasewT7/sewasewT7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
