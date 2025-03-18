@@ -1,7 +1,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Blue?logo=linkedin)](www.linkedin.com/in/sewasew-tadele-79a3222b5)
 [![Instagram](https://img.shields.io/badge/Instagram-ff69b4?logo=instagram)](https://www.instagram.com/luna_tadele/)
 
-<h1 align="center"> Hey there! 👋 I'm Sewasew <h1>
+<h1 align="center"> Hey there! 👋 I'm Sewasew </h1>
 <img align="right" src="https://i.imgur.com/ysK9MbV.png" alt="Female Coder" width="250" />
 
 🚀 Machine Learning & AI Enthusiast | 🖥️ Web-Developer  
