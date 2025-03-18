@@ -10,7 +10,7 @@ I'm a software engineering student with a strong passion for web development, ex
 - 📚 Student: at *Adama Science And Technology University*
 - 🎯 Goals: **Contribute more to Open Source**
 - 📫 Reach me at **[sewasewtadele@gmail.com]**
-- [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/YOUR_KAGGLE_USERNAME)
+- [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/https://www.kaggle.com/sewasewtadele)
 
 
 ---
