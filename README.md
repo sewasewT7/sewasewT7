@@ -1,5 +1,11 @@
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Blue?logo=linkedin)](www.linkedin.com/in/sewasew-tadele-79a3222b5)
-[![Instagram](https://img.shields.io/badge/Instagram-ff69b4?logo=instagram)](https://www.instagram.com/luna_tadele/)
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sewasew-tadele-79a3222b5)
+  
+  [![Instagram](https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luna_tadele/)
+
+</div>
+
 
 <h1 align="center"> Hey there! 👋 I'm Sewasew </h1>
 <img align="right" src="https://i.imgur.com/ysK9MbV.png" alt="Female Coder" width="250" />
