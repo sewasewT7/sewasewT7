@@ -2,7 +2,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-ff69b4?logo=instagram)](https://www.instagram.com/luna_tadele/)
 
 Hey there! 👋 I'm Sewasew
-<img align="right" src="https://source.unsplash.com/250x250/?black,woman,coding" alt="Female Coder" width="250" />
+<img align="right" src="https://imgur.com/a/yTZuXeu" alt="Female Coder" width="250" />
 
 🚀 Machine Learning & AI Enthusiast | 🖥️ Web-Developer  
 
@@ -39,9 +39,9 @@ I'm a software engineering student with a strong passion for web development, ex
 |-------|--------|--------------|
 | 
 ### 📊 GitHub Stats
-![Sewasew's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sewasewT7&show_icons=true&theme=blueberry)
-![GitHub Streak](https://streak-stats.demolab.com/?user=sewasewT7&theme=blueberry) | 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sewasewT7&layout=compact&theme=blueberry) |
+![Sewasew's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sewasewT7&show_icons=true&theme=blue)|
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sewasewT7&theme=blue)|
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sewasewT7&layout=compact&theme=blue) |
 
 ---
 
