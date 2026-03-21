@@ -12,7 +12,9 @@
 
 🚀 Machine Learning & AI Enthusiast | 🖥️ Web-Developer  
 
-I'm a software engineering student with a strong passion for web development, experienced in building projects with **React**, **JavaScript**, and other web technologies. Recently, I've started my journey into the world of **Machine Learning** and **Data Science**, where I'm eager to explore the endless possibilities of AI.
+I'm a Software Engineering student at Adama Science and Technology University, focused on building **end-to-end intelligent systems** that combine Machine Learning with real-world applications.
+I enjoy taking projects from idea → model → API → frontend, and turning them into usable products.
+
 - 📚 Student: at *Adama Science And Technology University*
 - 🎯 Goals: **Contribute more to Open Source**
 - 📫 Reach me at **[sewasewtadele@gmail.com]**
